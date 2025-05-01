@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sumando Silalahi
 
-<img src="image/logo.png" width="100%" alt="Coder at Work" />
+<img src="/image/logo.png" width="65%" alt="Coder at Work" align="center" />
 
  <br />
  
