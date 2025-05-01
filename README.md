@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Sumando Silalahi
 
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Working" />
+<img src="image/logo.png" width="100%" alt="Coder at Work" />
+
  <br />
  
  <br />
@@ -22,13 +23,14 @@ Experienced in web development with a strong focus on both frontend and backend.
 
 ### 🚀 Tech Stack
 
+<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Laravel-FC4C02?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-
+</p>
 ---
 
 ### 📈 GitHub Stats
