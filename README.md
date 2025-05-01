@@ -5,10 +5,7 @@
 </p>
 
  <br />
- 
- <br />
 
-<p align="center">🎓 Bachelor of Information Systems </p>
 <p align="center">Full-Stack Web Developer | Problem Solver | Tech Enthusiast 💻</p>
 
 ---
