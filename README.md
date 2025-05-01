@@ -49,8 +49,4 @@ Experienced in web development with a strong focus on both frontend and backend.
 
 Always eager to explore new technologies and collaborate on impactful projects.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumandosilalahi/sumandosilalahi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumandosilalahi/sumandosilalahi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sumandosilalahi/sumandosilalahi/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
