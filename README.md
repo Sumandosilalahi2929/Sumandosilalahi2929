@@ -1,9 +1,5 @@
 ## 👋 Hi, I'm Sumando Silalahi
 
-<p align="center">Full-Stack Web Developer | Problem Solver | Tech Enthusiast 💻</p>
-
----
-
 ### 💼 About Me
 
 Experienced in web development with a strong focus on both frontend and backend. Proficient in building modern, efficient, and user-friendly applications using Laravel and Next.js.
@@ -37,10 +33,6 @@ Experienced in web development with a strong focus on both frontend and backend.
 - 📧 Email: sumandosilalahi@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/sumandosilalahi](https://linkedin.com/in/sumandosilalahi)
 
----
-
 ### ✨ Fun Fact
 
 Always eager to explore new technologies and collaborate on impactful projects.
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
