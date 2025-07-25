@@ -1,15 +1,5 @@
 ## 👋 Hi, I'm Sumando Silalahi
 
-### 💼 About Me
-
-Experienced in web development with a strong focus on both frontend and backend. Proficient in building modern, efficient, and user-friendly applications using Laravel and Next.js.
-
-- 🔧 Languages & Frameworks: PHP, JavaScript, Laravel, Next.js, React, Node.js
-- 🗃️ Databases: MySQL, MongoDB
-- 🧩 Tools & Concepts: Git, REST API, MVC Architecture, Tailwind CSS
-
----
-
 ### 🚀 Tech Stack
 
 <p>
@@ -25,14 +15,7 @@ Experienced in web development with a strong focus on both frontend and backend.
 ### 📈 GitHub Stats
 
 ![Sumando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumandosilalahi2929&show_icons=true&theme=tokyonight)
-
 ---
-
-### 📫 Contact
-
-- 📧 Email: sumandosilalahi@gmail.com
-- 🌐 LinkedIn: [linkedin.com/in/sumandosilalahi](https://linkedin.com/in/sumandosilalahi)
-
 ### ✨ Fun Fact
 
 Always eager to explore new technologies and collaborate on impactful projects.
