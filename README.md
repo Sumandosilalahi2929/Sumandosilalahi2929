@@ -23,10 +23,6 @@
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Sumandosilalahi2929&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="Detailed GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumandosilalahi2929&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
