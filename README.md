@@ -12,10 +12,15 @@
 
 ---
 
-### 📈 GitHub Stats
-![Sumando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumandosilalahi2929&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+### 📊 Statistik & Aktivitas GitHub
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumandosilalahi2929&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sumando's All-Time GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumandosilalahi2929&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumandosilalahi2929&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 💡 About Me
 - Fullstack Developer with a strong focus on modern web technologies.
