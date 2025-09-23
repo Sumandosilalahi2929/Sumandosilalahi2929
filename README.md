@@ -3,8 +3,6 @@
 
 Experienced Fullstack Developer specializing in building scalable and efficient web applications using modern technologies. Passionate about clean code, best practices, and creating exceptional user experiences.
 
----
-
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -14,7 +12,6 @@ Experienced Fullstack Developer specializing in building scalable and efficient 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sumandosilalahi2929&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
----
 
 ### 📫 Get in Touch
 
